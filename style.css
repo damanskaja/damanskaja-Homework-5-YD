@@ -1,0 +1,51 @@
+.btn-register{
+    background-color: rgb(255, 213, 0);
+    margin-top: 10px;
+    padding-top: 15px;
+    border-radius: 15px;
+    height: 35px;
+    width: 300px;
+    border: 3px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.btn-login{
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 15px;
+    height: 50px;
+    width: 300px;
+    border: 1px solid rgba(128, 128, 128, 0.887);
+    font-weight: bold;
+}
+input:focus{
+    border: 1px solid yellow;
+}
+
+.input-email:focus{
+    border: 1px solid yellow;
+}
+
+.input-email{
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.887);
+    height: 50px;
+    width: 300px;
+}
+
+.input-password{
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.887);
+    height: 50px;
+    width: 300px;
+}
+
+.txt-gray{
+    color: gray;
+}
